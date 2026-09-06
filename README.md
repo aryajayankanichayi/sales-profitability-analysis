@@ -38,7 +38,7 @@ Rebuilt the main queries the way I'd write them if this data lived in an actual 
 
 ### Python
 
-Same analysis again in a notebook, plus I ran a quick correlation between discount % and profit margin to check if the relationship was actually strong or just a coincidence (it's strong). Used pandas and matplotlib.
+Same analysis again in a notebook, plus I ran a quick correlation between discount % and profit margin to check if the relationship was actually strong or just a coincidence - turned out to be -0.86,so yeah, it's real.
 
 ## How I got here
 
