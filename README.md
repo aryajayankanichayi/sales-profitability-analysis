@@ -1,6 +1,6 @@
 # Why was profit falling even though sales looked fine?
 
-I was going through a retail sales dataset (5,009 orders, 2014-2017) and something didn't add up - total sales looked healthy at ₹22.97L but the profit margin was only 12.47%. That gap is what got me digging into this in the first place.
+I was going through a retail sales dataset (9,000+ orders, 2014-2017) and something didn't add up - total sales looked healthy at ₹22.97L but the profit margin was only 12.47%. That gap is what got me digging into this in the first place.
 
 This repo is that investigation, done three ways - Excel, SQL, and Python.
 
