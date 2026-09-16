@@ -40,6 +40,14 @@ Rebuilt the main queries the way I'd write them if this data lived in an actual 
 
 Same analysis again in a notebook, plus I ran a quick correlation between discount % and profit margin to check if the relationship was actually strong or just a coincidence - turned out to be -0.86,so yeah, it's real.
 
+## Power BI Version
+
+Rebuilt the same analysis in Power BI with DAX measures and interactive slicers.
+**What's different from the Excel version:**
+- Profit Margin and Total Orders calculated via DAX measures
+- Interactive Region/Category slicers
+- Dual-axis chart with Loss Zone highlight
+
 ## How I got here
 
 1. Cleaned the raw data first - mainly built a discount bucket column so I could group orders instead of dealing with a dozen different discount percentages
